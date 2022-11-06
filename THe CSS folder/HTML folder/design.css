@@ -3,5 +3,37 @@
 }
 
 body{
-    background-image: url(./background-la-gi.jpg);
+    background-image: url(../pictures/image\ for\ poodle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+h1{
+    color: white;
+    font-size: 100px;
+}
+
+.div3{
+    border: 2px solid transparent;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: white;
+    margin: auto;
+    width: 50%;
+}
+
+.div1{
+    background-color:rgb(59, 59, 241);
+    border: 2px solid transparent;
+    padding: 5px;
+    margin: none;
+}
+
+.div2{
+    background-color: cornflowerblue;
+    border: 2px solid transparent;
+
+    padding: 2px;
 }
